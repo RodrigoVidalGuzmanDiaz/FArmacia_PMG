@@ -1,5 +1,5 @@
 # Farmacia_PMG
-https://rodrigovidalguzmandiaz.github.io/Farmacia_PMG/
+https://github.com/RodrigoVidalGuzmanDiaz/Farmacia_PMG.git
 
 -La programación fue diseñado por la empresa Farmacia PMG.
 
