@@ -1,5 +1,6 @@
 # Farmacia_PMG
 https://rodrigovidalguzmandiaz.github.io/Farmacia_PMG/
+
 -La programación fue diseñado por la empresa Farmacia PMG.
 
 -Consiste en que el usuario escriba su altura en metros y su masa en libras y el programa realice una operación en el cual indicará en IMC del usuario.Posteriormente el programa hace un gráfico de las clasificacionesde de IMC
